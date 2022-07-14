@@ -1,0 +1,1 @@
+import 'isomorphic-fetch' // Porque en node no esta API Fetch
